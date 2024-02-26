@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ruan Amorim",
+        "label": "Darksian Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Darksian-Theme.json"
       }
