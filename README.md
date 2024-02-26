@@ -13,5 +13,6 @@ Ao implementar o 'Darksian Theme' em seus projetos, os desenvolvedores podem ofe
 ## For more information contact me!
 
 * [LinkedIn](https://www.linkedin.com/in/ruan-amorim/)
-* [E-mail]<a href = "mailto:allafruan27@gmail.com">(allafruan27@gmail.com)</a>
+* [Instagram](https://www.instagram.com/ruan.amorimc/)
+
 **Enjoy!**
