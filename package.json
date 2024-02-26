@@ -1,7 +1,10 @@
 {
   "name": "darksian-theme",
   "displayName": "Darksian Theme",
-  "description": "Tema dark minimalist com detalhes em rosa",
+  "description": "Darksian Theme. A dark theme for visual studio code",
+  "publisher": "Ruan-Amorim",
+  "repository": "https://github.com/ruanamorimc/darksian-theme",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
