@@ -1,16 +1,18 @@
-# Narcoberry README
+# Darksian-Theme README
 
-## Working with Markdown
+## About
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+O 'Darksian Theme' representa a convergência entre elegância e funcionalidade em um ambiente de design minimalista. Inspirado na simplicidade do estilo escuro, este tema oferece uma experiência visual imersiva, mantendo uma estética moderna e profissional.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Os detalhes em rosa sutis, cuidadosamente integrados em toda a interface, proporcionam um contraste cativante, adicionando uma pitada de personalidade sem comprometer a essência minimalista. Essa escolha de paleta de cores não apenas atrai o olhar, mas também transmite uma sensação de sofisticação e serenidade.
 
-## For more information
+Cada elemento do 'Darksian Theme' é meticulosamente projetado e refinado para garantir uma experiência de usuário coesa e agradável. Desde a disposição dos elementos até a escolha das fontes e espaçamentos, cada decisão de design é fundamentada na busca pela perfeição funcional e estética.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Ao implementar o 'Darksian Theme' em seus projetos, os desenvolvedores podem oferecer uma experiência de usuário refinada e elegante, mantendo a eficiência e a acessibilidade. Este tema é mais do que apenas uma escolha estilística; é uma declaração de compromisso com a excelência no design de interfaces.
+
+## For more information contact me!
+
+* [LinkedIn](https://www.linkedin.com/in/ruan-amorim/)
+* [E-mail](allafruan27@gmail.com)
 
 **Enjoy!**
